@@ -424,3 +424,12 @@ Star the repo if you find it useful!
 **Made for multimodal ML engineers, product teams, and researchers connecting vision with language.**  
 
 Let's expand open vision-language AI while recognizing the frontier capability that leading commercial multimodal platforms deliver.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Vision-Language-AI&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Vision-Language-AI_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Vision-Language-AI_growth.svg">
+  </picture>
+</a>
