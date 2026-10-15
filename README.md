@@ -71,7 +71,7 @@ The open-source vision-language ecosystem spans multimodal foundation weights, c
 
 ### 🏆 Repositories Sorted by Community Stars
 
-The following list is strictly sorted in **descending order by GitHub star count**. Each repository includes a social star badge linking directly to its GitHub stargazers page.
+The following list is strictly sorted in **descending order by GitHub Stars_Count**. Each repository includes a social Stars_Badge linking directly to its GitHub stargazers page.
 
 1. **[Transformers (Hugging Face)](https://github.com/huggingface/transformers)** [![Stars](https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white)](https://github.com/huggingface/transformers/stargazers)  
    The industry-standard open machine learning library providing unified implementations, weights, tokenizers, and image processors for state-of-the-art vision-language models (LLaVA, Qwen2-VL, PaliGemma, CLIP, BLIP, ViT, Idefics).
@@ -193,7 +193,7 @@ Contributions from the multimodal and machine learning community are warmly welc
 1. 🍴 **Fork the repository** on GitHub.
 2. 📝 **Add or edit entries in `README.md`** following the established format:
    - For SaaS products: Product Name, Hyperlink, Company & Scale, Core Capabilities, Specific Starting Price, and Specific Free Tier/Trial Limit.
-   - For Open-Source repositories: Repo Name, Hyperlink, Social Star Badge (`style=social&color=white`) linking to its stargazers page, and a concise 1–2 sentence description. Maintain descending order by star count!
+   - For Open-Source repositories: Repo Name, Hyperlink, Social Stars_Badge (`style=social&color=white`) linking to its stargazers page, and a concise 1–2 sentence description. Maintain descending order by Stars_Count!
 3. 🚀 **Submit a Pull Request** with a brief summary of why the addition is notable.
 
 Check out [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for more curated lists!
@@ -231,3 +231,12 @@ If you find this repository valuable, please consider supporting the project:
     <img src="https://img.shields.io/badge/Sponsor-%E2%99%A5-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
   </a>
 </p>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Vision-Language-AI&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Vision-Language-AI_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Vision-Language-AI_growth.svg">
+  </picture>
+</a>
