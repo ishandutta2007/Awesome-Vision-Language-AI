@@ -71,7 +71,7 @@ The open-source vision-language ecosystem spans multimodal foundation weights, c
 
 ### 🏆 Repositories Sorted by Community Stars
 
-The following list is strictly sorted in **descending order by GitHub Stars_Count**. Each repository includes a social Stars_Badge linking directly to its GitHub stargazers page.
+The following list is strictly sorted in **descending order by GitHub_Stars_Count**. Each repository includes a social Stars_Badge linking directly to its GitHub stargazers page.
 
 1. **[Transformers (Hugging Face)](https://github.com/huggingface/transformers)** [![Stars](https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white)](https://github.com/huggingface/transformers/stargazers)  
    The industry-standard open machine learning library providing unified implementations, weights, tokenizers, and image processors for state-of-the-art vision-language models (LLaVA, Qwen2-VL, PaliGemma, CLIP, BLIP, ViT, Idefics).
