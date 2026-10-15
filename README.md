@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/vision-language-ai-banner.svg" alt="Awesome Vision-Language AI Banner" width="100%">
+  <img src="assets/banner.svg" alt="Awesome Vision-Language AI Banner" width="100%">
 </p>
 
 <p align="center">
